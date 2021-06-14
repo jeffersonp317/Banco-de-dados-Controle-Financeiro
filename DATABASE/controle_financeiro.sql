@@ -3,7 +3,7 @@ CREATE DATABASE FINANCEIRO
 DEFAULT CHARACTER SET utf8
 DEFAULT COLLATE utf8_general_ci;
 
-USE Controle_financeiro;
+USE financeiro;
 
 # Criando a tabela de transação
 CREATE TABLE Controle_financeiro (
